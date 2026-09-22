@@ -1,5 +1,5 @@
 # hello-world
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ganesh P Nair 👋
 
 🎓 First-year **Electronics and Communication Engineering (ECE)** student, taking my first steps into the world of coding as I explore where electronics and software meet.
 
