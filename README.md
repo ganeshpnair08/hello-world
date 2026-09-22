@@ -57,9 +57,9 @@ Beginner in:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/ganesh-p-nair-0436bb438/)
-[![GitHub](https://github.com/ganeshpnair08)
-[![Gmail](ganeshpnair7c@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ganesh-p-nair-0436bb438/)
+[GitHub](https://github.com/ganeshpnair08)
+[Gmail](ganeshpnair7c@gmail.com)
 
 ---
 
@@ -70,6 +70,3 @@ Beginner in:
 ---
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-> ✏️ *Replace `your-username` with your actual GitHub username to activate this live stats card.*
