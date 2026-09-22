@@ -59,7 +59,6 @@ Beginner in:
 
 [LinkedIn](https://www.linkedin.com/in/ganesh-p-nair-0436bb438/)
 [GitHub](https://github.com/ganeshpnair08)
-[Gmail](ganeshpnair7c@gmail.com)
 
 ---
 
